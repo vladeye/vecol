@@ -1,0 +1,253 @@
+﻿<root>
+	<pics frecuency="20000"> 
+		<pic name="0" link="img/inicio.swf" linea="" />
+		<pic name="0" link="img/intro.swf" linea="" />		
+		<!--Vacunas-->
+		<!--pic name="3" link="img/1-2-logo60.swf" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Ganadería" subTit="Vacunas"/-->		
+
+		<pic name="0" link="img/1-2-logo60.swf" moveon="s" slices="2"/>				
+		<pic name="1" link="img/1-texto.swf" />
+		<pic name="2"  loop="7" time="4" >
+			<pic name="1" link="img/2.1verano_venta_reses.jpg" />
+			<pic name="2" link="img/2.2_0720208ce9dd14102dbbf8729febb39c.jpg" />
+			<pic name="3" link="img/2.3AgenciaUN_0530_2_30.jpg" />
+			<pic name="4" link="img/2.4AgenciaUN_0530_1_38.jpg" />
+			<pic name="5" link="img/2.5AgenciaUN_0530_3_20.jpg" />
+			<pic name="6" link="img/2.6AgenciaUN_0530_4_13.jpg" />
+			<pic name="7" link="img/2-FENOMENO1.jpg" />
+		</pic>
+		<pic name="3" link="img/3.swf"/>
+		<pic name="4" link="img/4mapa agricola.jpg"/>
+		<pic name="5"  loop="2" time="4" >
+			<pic name="1" link="img/5.jpg" />
+			<pic name="2" link="img/5-1.jpg" />
+		</pic>
+		<pic name="6" link="img/6-texto.swf"/>
+		<pic name="7"  loop="3" time="4" >
+			<pic name="1" link="img/7 ganaderia-en-los-bosques.jpg" />
+			<pic name="2" link="img/7-1Ganaderia 1.jpg" />
+			<pic name="3" link="img/7-2.jpg" />
+			<pic name="4" link="img/7-3regular_regular_carne_frigorifico2.jpg" />
+		</pic>
+		<pic name="8"  loop="4" time="4" >
+			<pic name="1" link="img/8 contrabando.jpg" />
+			<pic name="2" link="img/8-1 Frontera-Venezuela-Colombia-6708083.jpg" />
+			<pic name="3" link="img/8-2 exportacion-de-carne.jpg" />
+			<pic name="4" link="img/8-3 corea del sur.jpg" />
+		</pic>
+		<pic name="9"  loop="5" time="4" >
+			<pic name="1" link="img/9 sequia reces.jpg" />
+			<pic name="2" link="img/9-1 sequias.jpg" />
+			<pic name="3" link="img/9-2 sequia guajira.jpg" />
+			<pic name="4" link="img/9-3.jpg" />
+			<pic name="5" link="img/9-4.jpg" />
+		</pic>
+		<pic name="10" link="img/10.swf"/>
+		<pic name="11" link="img/11-texto.swf"/>
+		<pic name="12" link="img/12.jpg"/>
+		<pic name="13" link="img/13-14-15.swf" moveon="s" slices="3"/>
+		<pic name="16" link="img/16.swf"/>
+		<pic name="13" link="img/17-18.swf" moveon="s" slices="2"/>
+		<pic name="19" link="img/19.jpg"/>
+		<pic name="20" link="img/20-texto.swf"/>
+		<pic name="21" link="img/21-22.swf" moveon="n" slices="3"/>
+		<pic name="23"  loop="4" time="4" >
+			<pic name="1" link="img/23 pension.jpg" />
+			<pic name="2" link="img/23-1.jpg" />
+			<pic name="3" link="img/23-2 sequia guajira.jpg" />
+			<pic name="4" link="img/23-4.jpg" />
+		</pic>
+		<pic name="24" link="img/24.jpg"/>
+		<pic name="25" link="img/25-texto.swf"/>
+		<pic name="26" link="img/26.jpg"/>
+		<pic name="27" link="img/27.jpg"/>
+		<pic name="28" link="img/28-29.swf" moveon="s" slices="2"/>		
+		<pic name="30" link="img/30.jpg"/>		
+		<pic name="31" link="img/31.jpg"/>
+		<pic name="32" link="img/32.jpg"/>
+		<pic name="33" link="img/33- productos.jpg"/>
+		<pic name="34" link="img/34.jpg"/>
+		<pic name="35" link="img/35-fertilizantes.swf"/>
+		<pic name="36" link="img/36-texto.swf"/>
+		<pic name="37"  loop="4" time="4" >
+			<pic name="1" link="img/37 mascotas.jpg" />
+			<pic name="2" link="img/37-1.jpg" />
+			<pic name="3" link="img/37-2.jpg" />
+			<pic name="4" link="img/37-3.jpg" />
+			<pic name="5" link="img/37-4.jpg" />
+			<pic name="6" link="img/37-5.jpg" />
+			<pic name="7" link="img/37-6.jpg" />
+			<pic name="8" link="img/37-7.jpg" />
+		</pic>
+		<pic name="38" link="img/38.jpg"/>
+		<pic name="39" link="img/35.jpg"/>
+		<pic name="36" link="img/36-37-38.swf" moveon="s" slices="3"/>
+		<pic name="39" link="img/39 logo planes piloto.jpg"/>
+		<pic name="40" link="img/40.jpg"/>
+		<pic name="41" link="img/41.jpg"/>
+		<pic name="42" link="img/42.jpg"/>
+		<pic name="43" link="img/43-44pasos.swf" moveon="s" slices="2"/>
+		<pic name="45" link="img/45-46-47.swf" moveon="s" slices="3"/>
+		<pic name="48" link="img/48-49-50.swf" moveon="s" slices="3"/>	
+		<pic name="51" link="img/51-52.swf" moveon="s" slices="2"/>
+		<pic name="53" link="img/53.jpg"/>
+		<pic name="54" link="img/54-texto.swf"/>	
+		<pic name="55" link="img/55pasos.swf" moveon="s" slices="2"/>
+		<pic name="56" link="img/56-logoRevisoria.jpg"/>
+		<pic name="57" link="img/57.jpg"/>
+		<pic name="58" link="img/58-59-60pasos.swf" moveon="s" slices="3"/>
+		<pic name="61" link="img/61.jpg"/>
+		<pic name="62" link="img/62.jpg"/>
+		<pic name="63" link="img/63.jpg"/>
+		<pic name="64a" link="img/64a.jpg"/>
+		<pic name="65" link="img/65.swf"/>
+		<pic name="66" link="img/66.jpg"/>
+		<pic name="67" link="img/67-68-planEstrategico.swf" moveon="s" slices="3"/>
+		<pic name="69" link="img/69.jpg"/>
+		<pic name="70" link="img/70.jpg"/>
+		<pic name="71" link="img/71-texto.swf"/>
+		<pic name="72" link="img/72-73.swf" moveon="s" slices="2"/>						
+		<pic name="74"  loop="5" time="4" >
+			<pic name="1" link="img/74-1.jpg" />
+			<pic name="2" link="img/74-2.jpg" />
+			<pic name="3" link="img/74-3.jpg" />
+			<pic name="4" link="img/74-4.jpg" />
+			<pic name="5" link="img/74-5.jpg" />
+		</pic>
+		<pic name="75" link="img/75-76-77pasos.swf" moveon="s" slices="3"/>																				
+		<pic name="78" link="img/78.jpg"/>										
+		<pic name="79" link="img/79.jpg"/>										
+		<pic name="80" link="img/80-pasos.swf" moveon="s" slices="2"/>										
+		<pic name="81" link="img/81.jpg"/>										
+		<pic name="82" link="img/81-82pasos.swf" moveon="s" slices="4"/>
+		<pic name="83" link="img/83-ICApasos.swf" moveon="s" slices="2"/>						
+		<pic name="84" link="img/84.swf"/>
+		<pic name="85" link="img/85.jpg"/>
+		<pic name="86" link="img/86.jpg"/>
+		<pic name="87" link="img/87.jpg"/>
+		<pic name="88" link="img/88.jpg"/>
+		<pic name="89" link="img/89.jpg"/>
+		<pic name="90" link="img/90-91-92-93pasos.swf" moveon="s" slices="4"/>
+		<pic name="94" link="img/94-texto.swf"/>
+		<pic name="95"  loop="6" time="4" >
+			<pic name="1" link="img/95-1.jpg" />
+			<pic name="2" link="img/95-2.jpg" />
+			<pic name="3" link="img/95-3.jpg" />
+			<pic name="4" link="img/95-4.jpg" />
+			<pic name="5" link="img/95-5.jpg" />
+			<pic name="6" link="img/95-6.jpg" />
+		</pic>
+		<pic name="97" link="img/97.jpg"/>
+		<pic name="97b" link="img/97b.jpg"/>
+		<pic name="98" link="img/98.jpg"/>
+		<pic name="99" link="img/99.jpg"/>
+		<pic name="100" link="img/100.jpg"/>
+		<pic name="101" link="img/101.jpg"/>	
+		<pic name="102" link="img/102-mapa.jpg"/>
+		<pic name="103" link="img/103.jpg"/>
+		<pic name="104" link="img/104.jpg"/>
+		<pic name="105" link="img/105.jpg"/>
+		<pic name="106" link="img/106.jpg"/>
+		<pic name="107" link="img/107-texto.swf"/>
+		<pic name="108" link="img/108.jpg"/>
+		<pic name="109" link="img/109.jpg"/>
+		<pic name="110" link="img/110.jpg"/>
+		<pic name="111" link="img/111.jpg"/>	
+		<pic name="112"  loop="5" time="2" >
+			<pic name="1" link="img/112-1.jpg" />
+			<pic name="2" link="img/112-2.jpg" />
+			<pic name="3" link="img/112-3.jpg" />
+			<pic name="4" link="img/112-4.jpg" />
+			<pic name="5" link="img/112-5.jpg" />
+		</pic>
+		<pic name="113" link="img/113-texto.swf"/>
+		<pic name="114" link="img/114.jpg"/>
+		<pic name="115" link="img/115.jpg"/>
+		<pic name="116" link="img/116.jpg"/>
+		<pic name="117" link="img/117.jpg"/>
+		<pic name="118"  loop="3" time="2" >
+			<pic name="1" link="img/118-1.jpg" />
+			<pic name="2" link="img/118-2.jpg" />
+			<pic name="3" link="img/118-3.jpg" />
+		</pic>		
+		<pic name="119" link="img/119.jpg"/>
+		<pic name="120" link="img/120.jpg"/>
+		<pic name="121" link="img/121.jpg"/>
+		<pic name="122" link="img/122.jpg"/>
+		<pic name="123" link="img/123.jpg"/>
+		<pic name="124" link="img/124.jpg"/>
+		<pic name="125" link="img/125.jpg"/>
+		<pic name="126" link="img/126.jpg"/>
+		<pic name="127" link="img/127-texto.swf"/>
+		<pic name="128" link="img/128.jpg"/>
+		<pic name="129" link="img/129.jpg"/>
+		<pic name="130" link="img/130.jpg"/>
+		<pic name="131" link="img/131.jpg"/>
+		<pic name="132" link="img/132.jpg"/>
+		<pic name="133" link="img/133.jpg"/>
+		<pic name="134" link="img/134-texto.swf"/>
+		<pic name="135" link="img/135-136-pasos.swf" moveon="s" slices="2"/>	
+		<pic name="137" link="img/137.jpg"/>
+		<pic name="138" link="img/138.jpg"/>
+		<pic name="139" link="img/139.jpg"/>
+		<pic name="140" link="img/140-texto.swf"/>
+		<pic name="141" link="img/141.jpg"/>
+		<pic name="142" link="img/142.jpg"/>
+		<pic name="143" link="img/143.jpg"/>
+		<pic name="144" link="img/144.jpg"/>
+		<pic name="145" link="img/145.jpg"/>
+		<pic name="146" link="img/146.jpg"/>
+		<pic name="147" link="img/147.jpg"/>
+		<pic name="148" link="img/148.jpg"/>
+		<pic name="149" link="img/149.jpg"/>
+		<pic name="150" link="img/150.jpg"/>
+		<pic name="151" link="img/151-texto.swf"/>
+		<pic name="152" link="img/152.jpg"/>
+		<pic name="153" link="img/153.jpg"/>
+		<pic name="154" link="img/154animacion.swf"/>
+		<pic name="155" link="img/155.jpg"/>
+		<pic name="155a" link="img/155-a.jpg"/>
+		<pic name="156"  loop="7" time="4" >
+			<pic name="1" link="img/156-1.jpg" />
+			<pic name="2" link="img/156-2.jpg" />
+			<pic name="3" link="img/156-3.jpg" />
+			<pic name="4" link="img/156-4.jpg" />
+			<pic name="5" link="img/156-5.jpg" />
+			<pic name="6" link="img/156-6.jpg" />
+			<pic name="7" link="img/156-7.jpg" />
+		</pic>		
+		<pic name="157" link="img/157.jpg"/>
+		<pic name="158" link="img/158.jpg"/>
+		<pic name="159" link="img/159.jpg"/>
+		<pic name="160" link="img/160.jpg"/>
+		<pic name="161"  loop="8" time="4" >
+			<pic name="1" link="img/161-1.jpg" />
+			<pic name="2" link="img/161-2.jpg" />
+			<pic name="3" link="img/161-3.jpg" />
+			<pic name="4" link="img/161-4.jpg" />
+			<pic name="5" link="img/161-5.jpg" />
+			<pic name="6" link="img/161-6.jpg" />
+			<pic name="7" link="img/161-7.jpg" />
+			<pic name="7" link="img/161-8.jpg" />
+		</pic>
+		<pic name="162"  loop="8" time="4" >
+			<pic name="1" link="img/162-1.jpg" />
+			<pic name="2" link="img/162-2.jpg" />
+			<pic name="3" link="img/162-3.jpg" />
+			<pic name="4" link="img/162-4.jpg" />
+			<pic name="5" link="img/162-5.jpg" />
+			<pic name="6" link="img/162-6.jpg" />
+			<pic name="7" link="img/162-7.jpg" />
+			<pic name="8" link="img/162-8.jpg" />
+		</pic>	
+		<pic name="163" link="img/163-animales.swf"/>																	
+		<pic name="163" link="img/164-gracias.swf"/>
+	</pics> 
+	<colors>
+		<color value="0x666666" />
+		<color value="0x666666" />
+		<color value="0x666666" />
+	</colors>	
+</root>
+
+

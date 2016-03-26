@@ -1,0 +1,298 @@
+﻿<root>
+	<pics frecuency="20000"> 
+		<pic name="1" link="img/inicio.swf" linea="" />
+		<pic name="2" link="img/intro.swf" linea="" />		
+		<!--Vacunas-->
+		<pic name="3" link="img/02-bienvenidos.swf" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Ganadería" subTit="Vacunas"/>
+		<pic name="4" link="img/1.swf" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Ganadería" subTit="Vacunas"/>
+		<pic name="8" link="img/2.jpg" linea="" seccion="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Mascotas" subTit=""/>
+		<pic name="11b" link="img/3.JPG" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="11d" link="img/4.JPG" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="14a" link="img/5.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="14b" link="img/6.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="14c" link="img/7.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="14d" link="img/8.JPG" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="11e" link="img/9.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="11f"  loop="17" time="3" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Aviar" subTit="">
+			<pic name="1" link="img/10.JPG" />
+			<pic name="2" link="img/10a.JPG" />
+			<pic name="3" link="img/10b1.jpg" />
+			<pic name="4" link="img/10c.JPG" />
+			<pic name="5" link="img/10d.JPG" />		
+			<pic name="6" link="img/10e.JPG" />		
+			<pic name="7" link="img/10f.JPG" />
+			<pic name="8" link="img/10g.JPG" />
+			<pic name="9" link="img/10h.jpg" />		
+			<pic name="10" link="img/10i.jpg" />		
+			<pic name="11" link="img/10j.jpg" />
+			<pic name="12" link="img/10k.jpg" />
+			<pic name="13" link="img/10l.JPG" />
+			<pic name="14" link="img/10m.JPG" />		
+			<pic name="15" link="img/10n.JPG" />		
+			<pic name="16" link="img/10o.JPG" />
+			<pic name="17" link="img/10p.JPG" />
+		</pic>
+		
+		<pic name="11h" link="img/11.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="13" link="img/12.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="14" link="img/13.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="15" link="img/14.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="17" link="img/15.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="17b" link="img/16.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="18" link="img/17.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="19" link="img/18-subiendo.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="22" link="img/19-bajando.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="23" link="img/20.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="20" link="img/21.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="21" link="img/22.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="24" link="img/23.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="25" link="img/24.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="26" link="img/25.JPG" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="27" link="img/26.JPG" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="35" link="img/27.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="36" link="img/28.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="36a" link="img/29.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="37" link="img/30.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="37a" link="img/31.JPG" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="38" link="img/32.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="39" link="img/33.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="39b" link="img/34.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="45" link="img/35.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="45a" link="img/36.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="46" link="img/37.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="47" link="img/38mapa.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="47a" link="img/39.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="47b" link="img/40.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="47c" link="img/41-bajandoVAca.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="48" link="img/42.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="51" link="img/43.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="54" link="img/44.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="57" link="img/45.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="58" link="img/46.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="59" link="img/47.JPG" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="60" link="img/48.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>		
+		<pic name="62" link="img/49mapa.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="64" link="img/50.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="64a" link="img/51.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>		
+		<pic name="65" link="img/52.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="66"  loop="14" time="3" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Aviar" subTit="">
+			<pic name="1" link="img/53.jpg" />
+			<pic name="2" link="img/53a.jpg" />
+			<pic name="3" link="img/53b.jpg" />
+			<pic name="4" link="img/53c.jpg" />
+			<pic name="5" link="img/53d.jpg" />		
+			<pic name="6" link="img/53e.jpg" />		
+			<pic name="7" link="img/53f.JPG" />
+			<pic name="8" link="img/53g.jpg" />
+			<pic name="9" link="img/53h.jpg" />
+			<pic name="10" link="img/53i.jpg" />
+			<pic name="11" link="img/53j.jpg" />
+			<pic name="12" link="img/53k.jpg" />
+			<pic name="13" link="img/53l.jpg" />
+			<pic name="14" link="img/53m.jpg" />
+		</pic>
+
+		<pic name="67" link="img/54.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="68" link="img/55.JPG" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="69" link="img/56.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="70" link="img/57.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="72" link="img/58.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="72a" link="img/59.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="71" link="img/60-3textos.swf" moveon="s" slices="4" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="73" link="img/64-MIN.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="74" link="img/65-ICA.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="74a" link="img/66-FEDEGAN.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="74b" link="img/67a.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="74c" link="img/67b.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="75a" link="img/68.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="75b" link="img/69.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="75c" link="img/70.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="75d" link="img/71.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="75e" link="img/72.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="75f" link="img/73.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="75g" link="img/74.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="76" link="img/75-ANIMALES.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="76a" link="img/76-vecol.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="76b" link="img/77.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="76c" link="img/78.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="76d" link="img/79.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="76e" link="img/80.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="76f" link="img/81.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="76g" link="img/82.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="76h" link="img/83.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="76i" link="img/84.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="77" link="img/85.swf" moveon="s" slices="2" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78" link="img/86.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78a" link="img/87-utilidad neta.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78b" link="img/88-utilidad neta.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78c" link="img/89.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78d" link="img/90.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78e" link="img/91-contraloria.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78f" link="img/92.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78g" link="img/93.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78h" link="img/94.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78i" link="img/95.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78j" link="img/96-vecol.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78k" link="img/97.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78l" link="img/98.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78m" link="img/99.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="78n" link="img/100.JPG" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		
+
+		<pic name="81"  loop="13" time="3" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Aviar" subTit="">
+			<pic name="1" link="img/101.jpg" />
+			<pic name="2" link="img/101a.JPG" />
+			<pic name="3" link="img/101b.jpg" />
+			<pic name="4" link="img/101c.JPG" />
+			<pic name="5" link="img/101d.JPG" />		
+			<pic name="6" link="img/101e.JPG" />		
+			<pic name="7" link="img/101f.JPG" />
+			<pic name="8" link="img/101g.JPG" />
+			<pic name="9" link="img/101h.JPG" />		
+			<pic name="10" link="img/101i.JPG" />		
+			<pic name="11" link="img/101j.JPG" />
+			<pic name="12" link="img/101k.JPG" />
+			<pic name="13" link="img/101l.JPG" />		
+		</pic>
+
+		<pic name="82" link="img/102.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="83" link="img/103.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="83a" link="img/104.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+
+
+		<pic name="84"  loop="16" time="3" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Aviar" subTit="">
+			<pic name="1" link="img/105.jpg" />
+			<pic name="2" link="img/105a.jpg" />
+			<pic name="3" link="img/105b.jpg" />
+			<pic name="4" link="img/105c.jpg" />
+			<pic name="5" link="img/105d.jpg" />
+			<pic name="6" link="img/105e.jpg" />
+			<pic name="7" link="img/105f.jpg" />
+			<pic name="8" link="img/105g.jpg" />
+			<pic name="9" link="img/105h.jpg" />
+			<pic name="10" link="img/105i.jpg" />
+			<pic name="11" link="img/105j.jpg" />
+			<pic name="12" link="img/105k.jpg" />
+			<pic name="13" link="img/105l.jpg" />	
+			<pic name="14" link="img/105m.jpg" />
+			<pic name="15" link="img/105n.jpg" />
+			<pic name="16" link="img/105o.jpg" />	
+		</pic>
+
+
+		<pic name="85b" link="img/106.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="85c" link="img/107.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="86" link="img/108.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="87" link="img/109.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="88" link="img/110.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="89" link="img/111.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>		
+		<pic name="90" link="img/112mapa.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="91" link="img/113.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="91b" link="img/114mapa.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="92" link="img/115.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="92b" link="img/116.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="91c" link="img/117mapa.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="89a" link="img/118.JPG" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="94" link="img/119-crecimiento.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="95" link="img/120-logos.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="96" link="img/121-fotoTxt.swf"linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="96a" link="img/122.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="96b" link="img/123.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="96c" link="img/124.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="96d" link="img/125.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="96e" link="img/126-3textos.swf" moveon="s" slices="4" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="96f" link="img/130.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="96g" link="img/131.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="96h" link="img/132-AFTOGAN.swf" moveon="s" slices="5" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="97" link="img/134.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="97a" link="img/135-colsafa.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="97b" link="img/136.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+
+		<pic name="99"  loop="13" time="3" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Aviar" subTit="">
+			<pic name="1" link="img/137.JPG" />
+			<pic name="2" link="img/137a.JPG" />
+			<pic name="3" link="img/137b.JPG" />
+			<pic name="4" link="img/137c.JPG" />
+			<pic name="5" link="img/137d.JPG" />
+			<pic name="6" link="img/137e.JPG" />
+			<pic name="7" link="img/137f.jpg" />
+			<pic name="8" link="img/137g.jpg" />
+			<pic name="9" link="img/137h.jpg" />
+			<pic name="10" link="img/137i.JPG" />
+			<pic name="11" link="img/137j.JPG" />
+			<pic name="12" link="img/137k.JPG" />
+			<pic name="13" link="img/137l.JPG" />
+		</pic>
+
+		<pic name="100a" link="img/138.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="100b" link="img/139-ICA -txt.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="100c" link="img/140.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="100d" link="img/141.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="100e" link="img/142.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+
+
+		<pic name="100f" link="img/143.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+		<pic name="100g" link="img/144-NSB-Txt.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+
+		<pic name="100h" link="img/145.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+
+		<pic name="100i" link="img/146.jpg" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+
+		<pic name="100j" link="img/147-lineas.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+
+		
+
+
+		<pic name="101"  loop="9" time="3" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Aviar" subTit="">
+			<pic name="1" link="img/148.jpg" />
+			<pic name="2" link="img/148a.jpg" />
+			<pic name="3" link="img/148b.jpg" />
+			<pic name="4" link="img/148c.jpg" />
+			<pic name="5" link="img/148d.jpg" />
+			<pic name="6" link="img/148e.jpg" />
+			<pic name="7" link="img/148f.jpg" />
+			<pic name="8" link="img/148g.jpg" />
+			<pic name="9" link="img/148h.jpg" />
+		</pic>
+
+
+		<pic name="102"  loop="9" time="3" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Aviar" subTit="">
+			<pic name="1" link="img/149.jpg" />
+			<pic name="2" link="img/149a.JPG" />
+			<pic name="3" link="img/149b.jpg" />
+			<pic name="4" link="img/149c.jpg" />
+			<pic name="5" link="img/149d.jpg" />
+			<pic name="6" link="img/149e.jpg" />
+			<pic name="7" link="img/149f.jpg" />
+			<pic name="8" link="img/149g.jpg" />
+			<pic name="9" link="img/149h.jpg" />
+		</pic>
+
+
+		<pic name="103"  loop="12" time="3" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Aviar" subTit="">
+			<pic name="1" link="img/150a.jpg" />
+			<pic name="2" link="img/150b.jpg" />
+			<pic name="3" link="img/150c.jpg" />
+			<pic name="4" link="img/150d.jpg" />
+			<pic name="5" link="img/150e.jpg" />
+			<pic name="6" link="img/150f.jpg" />
+			<pic name="7" link="img/150g.JPG" />
+			<pic name="8" link="img/150h.JPG" />
+			<pic name="9" link="img/150i.jpg" />
+			<pic name="10" link="img/150j.jpg" />
+			<pic name="11" link="img/150k.JPG" />
+			<pic name="12" link="img/150l.JPG" />
+		</pic>
+
+	<pic name="104" link="img/151-GRACIAS.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+	<pic name="105" link="img/75-ANIMALES.swf" linea="Mascotas" seccion="" colorlin="0552EE" colorsec="0066ff" lema="Nueva Línea" logo="img/logoCOMPLETO.swf"/>
+				
+	</pics> 
+	<colors>
+		<color value="0x666666" />
+		<color value="0x666666" />
+		<color value="0x666666" />
+	</colors>	
+</root>
+
+
