@@ -5,7 +5,7 @@
 		<!--Vacunas-->
 		<!--pic name="3" link="img/1-2-logo60.swf" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Ganadería" subTit="Vacunas"/-->		
 
-		<pic name="0" link="img/1-2-logo60.swf" moveon="s" slices="2"/>				
+		<pic name="0" link="img/logoVecol.swf" moveon="s" slices="2"/>				
 		<pic name="1" link="img/1-texto.swf" />
 		<pic name="2"  loop="7" time="4" >
 			<pic name="1" link="img/2.1verano_venta_reses.jpg" />
@@ -83,116 +83,120 @@
 		<pic name="39" link="img/35.jpg"/>
 		<pic name="36" link="img/36-37-38.swf" moveon="s" slices="3"/>
 		<pic name="39" link="img/39 logo planes piloto.jpg"/>
-		<pic name="40" link="img/40.jpg"/>
-		<pic name="41" link="img/41.jpg"/>
-		<pic name="42" link="img/42.jpg"/>
-		<pic name="43" link="img/43-44pasos.swf" moveon="s" slices="2"/>
-		<pic name="45" link="img/45-46-47.swf" moveon="s" slices="3"/>
-		<pic name="48" link="img/48-49-50.swf" moveon="s" slices="3"/>	
+		<pic name="40" link="img/40-texto.swf"/>
+		<pic name="41"  loop="5" time="4" >
+			<pic name="1" link="img/41.jpg" />
+			<pic name="2" link="img/41-1.jpg" />
+			<pic name="3" link="img/41-2.jpg" />
+			<pic name="4" link="img/41-3.jpg" />
+			<pic name="5" link="img/41-4 productos veterinarios.jpg" />
+		</pic>
+		<pic name="42" link="img/42-43-44.swf" moveon="s" slices="3"/>
+		<pic name="45" link="img/45.jpg"/>
+		<pic name="46" link="img/46.jpg"/>
+		<pic name="47" link="img/47.JPG"/>
+		<pic name="48" link="img/48-logos.jpg"/>
+		<pic name="49" link="img/49-texto.swf"/>	
+		<pic name="50" link="img/50.jpg"/>	
 		<pic name="51" link="img/51-52.swf" moveon="s" slices="2"/>
-		<pic name="53" link="img/53.jpg"/>
-		<pic name="54" link="img/54-texto.swf"/>	
-		<pic name="55" link="img/55pasos.swf" moveon="s" slices="2"/>
-		<pic name="56" link="img/56-logoRevisoria.jpg"/>
-		<pic name="57" link="img/57.jpg"/>
-		<pic name="58" link="img/58-59-60pasos.swf" moveon="s" slices="3"/>
-		<pic name="61" link="img/61.jpg"/>
+		<pic name="53" link="img/53-texto.swf"/>
+		<pic name="54"  loop="7" time="4" >
+			<pic name="1" link="img/54 Buque.jpg" />
+			<pic name="2" link="img/54-1 Fertilizante 1.jpg" />
+			<pic name="3" link="img/54-2 Fertilizante 5.jpg" />
+			<pic name="4" link="img/54-2.5.jpg" />
+			<pic name="5" link="img/54-3 Fertilizante 3.jpg" />
+			<pic name="6" link="img/54-4 Fertilizante 4.jpg" />
+			<pic name="7" link="img/54-5 Fertilizante 2.jpg" />
+		</pic>
+		<pic name="55" link="img/55-texto.swf"/>
+		<pic name="56" link="img/56.jpg"/>
+		<pic name="57" link="img/57 fertilizantes.swf"/>
+		<pic name="58" link="img/58-59.swf" moveon="s" slices="2"/>
+		<pic name="60" link="img/60 mercadeo.jpg"/>
+		<pic name="61"  loop="6" time="4" >
+			<pic name="1" link="img/61.jpg" />
+			<pic name="2" link="img/61-0.jpg" />
+			<pic name="3" link="img/61-1.jpg" />
+			<pic name="4" link="img/61-2.jpg" />
+			<pic name="5" link="img/61-3.jpg" />
+			<pic name="6" link="img/61-4 silueta salchicha y gato.jpg" />
+		</pic>
 		<pic name="62" link="img/62.jpg"/>
-		<pic name="63" link="img/63.jpg"/>
-		<pic name="64a" link="img/64a.jpg"/>
-		<pic name="65" link="img/65.swf"/>
+		<pic name="63" link="img/63-texto.swf"/>
+		<pic name="64" link="img/64 articulos vecol.jpg"/>
+		<pic name="65" link="img/65.jpg"/>
 		<pic name="66" link="img/66.jpg"/>
-		<pic name="67" link="img/67-68-planEstrategico.swf" moveon="s" slices="3"/>
-		<pic name="69" link="img/69.jpg"/>
-		<pic name="70" link="img/70.jpg"/>
-		<pic name="71" link="img/71-texto.swf"/>
-		<pic name="72" link="img/72-73.swf" moveon="s" slices="2"/>						
-		<pic name="74"  loop="5" time="4" >
-			<pic name="1" link="img/74-1.jpg" />
-			<pic name="2" link="img/74-2.jpg" />
-			<pic name="3" link="img/74-3.jpg" />
-			<pic name="4" link="img/74-4.jpg" />
-			<pic name="5" link="img/74-5.jpg" />
+		<pic name="67" link="img/67 ASOPARDO.jpg"/>						
+		<pic name="68" link="img/68 logofedepalmac.jpg"/>																				
+		<pic name="69" link="img/69 -PROCANA.jpg"/>										
+		<pic name="70" link="img/70 SAC.jpg"/>										
+		<pic name="71" link="img/70 SAC.jpg"/>										
+		<pic name="72" link="img/72 ANALAC.jpg"/>										
+		<pic name="73" link="img/73 ASDEPASO.jpg"/>
+		<pic name="74" link="img/74 Logo-Asocebu-01"/>						
+		<pic name="75" link="img/75 FEDEGAN.jpg"/>
+		<pic name="76"  loop="4" time="4" >
+			<pic name="1" link="img/76- 3 Arturo Dajud 2.jpg" />
+			<pic name="2" link="img/76 vecol_en_feri a.jpg" />
+			<pic name="3" link="img/76-1.jpg" />
+			<pic name="4" link="img/76-2.jpg" />
 		</pic>
-		<pic name="75" link="img/75-76-77pasos.swf" moveon="s" slices="3"/>																				
-		<pic name="78" link="img/78.jpg"/>										
-		<pic name="79" link="img/79.jpg"/>										
-		<pic name="80" link="img/80-pasos.swf" moveon="s" slices="2"/>										
-		<pic name="81" link="img/81.jpg"/>										
-		<pic name="82" link="img/81-82pasos.swf" moveon="s" slices="4"/>
-		<pic name="83" link="img/83-ICApasos.swf" moveon="s" slices="2"/>						
-		<pic name="84" link="img/84.swf"/>
-		<pic name="85" link="img/85.jpg"/>
-		<pic name="86" link="img/86.jpg"/>
-		<pic name="87" link="img/87.jpg"/>
-		<pic name="88" link="img/88.jpg"/>
-		<pic name="89" link="img/89.jpg"/>
-		<pic name="90" link="img/90-91-92-93pasos.swf" moveon="s" slices="4"/>
-		<pic name="94" link="img/94-texto.swf"/>
-		<pic name="95"  loop="6" time="4" >
-			<pic name="1" link="img/95-1.jpg" />
-			<pic name="2" link="img/95-2.jpg" />
-			<pic name="3" link="img/95-3.jpg" />
-			<pic name="4" link="img/95-4.jpg" />
-			<pic name="5" link="img/95-5.jpg" />
-			<pic name="6" link="img/95-6.jpg" />
-		</pic>
-		<pic name="97" link="img/97.jpg"/>
-		<pic name="97b" link="img/97b.jpg"/>
-		<pic name="98" link="img/98.jpg"/>
-		<pic name="99" link="img/99.jpg"/>
-		<pic name="100" link="img/100.jpg"/>
-		<pic name="101" link="img/101.jpg"/>	
-		<pic name="102" link="img/102-mapa.jpg"/>
+		<pic name="77" link="img/77.jpg"/>
+		<pic name="78" link="img/78-79-80-81.swf" moveon="s" slices="4"/>
+		<pic name="82" link="img/82-texto.swf"/>
+		<pic name="83" link="img/83-texto.swf"/>
+		<pic name="84" link="img/84 Centrifuga 4.JPG"/>
+		<pic name="85" link="img/85Centrifuga 5.JPG"/>
+		<pic name="86" link="img/86 - MAPA BODEGAS.jpg"/>
+		<pic name="87" link="img/87 Resolucion Ambiental.jpg"/>
+		<pic name="88" link="img/88 PLANOS.jpg"/>
+		<pic name="99" link="img/89-90-91.swf" moveon="s" slices="3"/>
+		<pic name="92" link="img/92-texto.swf"/>
+		<pic name="93" link="img/93.jpg"/>	
+		<pic name="94" link="img/94.jpg"/>
+		<pic name="95" link="img/95 Certificado BPM planta Farma 2015.jpg"/>
+		<pic name="96" link="img/96-97-98-99-100.swf" moveon="s" slices="5"/>
+		<pic name="101" link="img/101.jpg"/>
+		<pic name="102" link="img/102.jpg"/>
 		<pic name="103" link="img/103.jpg"/>
-		<pic name="104" link="img/104.jpg"/>
-		<pic name="105" link="img/105.jpg"/>
-		<pic name="106" link="img/106.jpg"/>
-		<pic name="107" link="img/107-texto.swf"/>
-		<pic name="108" link="img/108.jpg"/>
-		<pic name="109" link="img/109.jpg"/>
+		<pic name="104" link="img/104 Planta Investigación.jpg"/>
+		<pic name="105" link="img/105 Planta Formulación.jpg"/>
+		<pic name="106" link="img/106 Foto Pasillo.jpg"/>
+		<pic name="107" link="img/107-texto.swf"/>	
+		<pic name="108" link="img/108 recertificacion.jpg"/>
+		<pic name="109" link="img/109 REMPLAZO bioseguridad.jpg"/>
 		<pic name="110" link="img/110.jpg"/>
-		<pic name="111" link="img/111.jpg"/>	
-		<pic name="112"  loop="5" time="2" >
-			<pic name="1" link="img/112-1.jpg" />
-			<pic name="2" link="img/112-2.jpg" />
-			<pic name="3" link="img/112-3.jpg" />
-			<pic name="4" link="img/112-4.jpg" />
-			<pic name="5" link="img/112-5.jpg" />
-		</pic>
-		<pic name="113" link="img/113-texto.swf"/>
+		<pic name="111" link="img/111.jpg"/>
+		<pic name="112" link="img/112 Ficha Fertilizantes.jpg"/>	
+		<pic name="113" link="img/113.jpg"/>
 		<pic name="114" link="img/114.jpg"/>
 		<pic name="115" link="img/115.jpg"/>
 		<pic name="116" link="img/116.jpg"/>
-		<pic name="117" link="img/117.jpg"/>
-		<pic name="118"  loop="3" time="2" >
-			<pic name="1" link="img/118-1.jpg" />
-			<pic name="2" link="img/118-2.jpg" />
-			<pic name="3" link="img/118-3.jpg" />
-		</pic>		
-		<pic name="119" link="img/119.jpg"/>
+		<pic name="117" link="img/117-118-119.swf" moveon="s" slices="3"/>
 		<pic name="120" link="img/120.jpg"/>
 		<pic name="121" link="img/121.jpg"/>
 		<pic name="122" link="img/122.jpg"/>
-		<pic name="123" link="img/123.jpg"/>
+		<pic name="123" link="img/123-texto.swf"/>
 		<pic name="124" link="img/124.jpg"/>
-		<pic name="125" link="img/125.jpg"/>
-		<pic name="126" link="img/126.jpg"/>
-		<pic name="127" link="img/127-texto.swf"/>
+		<pic name="125" link="img/125 Tratoril.jpg"/>
+		<pic name="126" link="img/126 Lombifar.jpg"/>
+		<pic name="127" link="img/127.jpg"/>
 		<pic name="128" link="img/128.jpg"/>
-		<pic name="129" link="img/129.jpg"/>
-		<pic name="130" link="img/130.jpg"/>
-		<pic name="131" link="img/131.jpg"/>
+		<pic name="129" link="img/129-texto.swf"/>
+		<pic name="130" link="img/134-texto.swf"/>
+		<pic name="131" link="img/131.jpg"/>	
 		<pic name="132" link="img/132.jpg"/>
 		<pic name="133" link="img/133.jpg"/>
-		<pic name="134" link="img/134-texto.swf"/>
-		<pic name="135" link="img/135-136-pasos.swf" moveon="s" slices="2"/>	
+		<pic name="134" link="img/134.jpeg"/>
+		<pic name="135" link="img/135.jpg"/>
+		<pic name="136" link="img/136.jpg"/>
 		<pic name="137" link="img/137.jpg"/>
 		<pic name="138" link="img/138.jpg"/>
 		<pic name="139" link="img/139.jpg"/>
-		<pic name="140" link="img/140-texto.swf"/>
+		<pic name="140" link="img/140.jpg"/>
 		<pic name="141" link="img/141.jpg"/>
-		<pic name="142" link="img/142.jpg"/>
+		<pic name="142" link="img/142-texto.swf"/>
 		<pic name="143" link="img/143.jpg"/>
 		<pic name="144" link="img/144.jpg"/>
 		<pic name="145" link="img/145.jpg"/>
@@ -201,47 +205,42 @@
 		<pic name="148" link="img/148.jpg"/>
 		<pic name="149" link="img/149.jpg"/>
 		<pic name="150" link="img/150.jpg"/>
-		<pic name="151" link="img/151-texto.swf"/>
+		<pic name="151" link="img/151.jpg"/>		
 		<pic name="152" link="img/152.jpg"/>
-		<pic name="153" link="img/153.jpg"/>
-		<pic name="154" link="img/154animacion.swf"/>
+		<pic name="153" link="img/153-texto.swf"/>
+		<pic name="154" link="img/154.jpg"/>
 		<pic name="155" link="img/155.jpg"/>
-		<pic name="155a" link="img/155-a.jpg"/>
-		<pic name="156"  loop="7" time="4" >
-			<pic name="1" link="img/156-1.jpg" />
-			<pic name="2" link="img/156-2.jpg" />
-			<pic name="3" link="img/156-3.jpg" />
-			<pic name="4" link="img/156-4.jpg" />
-			<pic name="5" link="img/156-5.jpg" />
-			<pic name="6" link="img/156-6.jpg" />
-			<pic name="7" link="img/156-7.jpg" />
-		</pic>		
+		<pic name="156" link="img/156.jpg"/>
 		<pic name="157" link="img/157.jpg"/>
 		<pic name="158" link="img/158.jpg"/>
 		<pic name="159" link="img/159.jpg"/>
 		<pic name="160" link="img/160.jpg"/>
-		<pic name="161"  loop="8" time="4" >
-			<pic name="1" link="img/161-1.jpg" />
-			<pic name="2" link="img/161-2.jpg" />
-			<pic name="3" link="img/161-3.jpg" />
-			<pic name="4" link="img/161-4.jpg" />
-			<pic name="5" link="img/161-5.jpg" />
-			<pic name="6" link="img/161-6.jpg" />
-			<pic name="7" link="img/161-7.jpg" />
-			<pic name="7" link="img/161-8.jpg" />
-		</pic>
-		<pic name="162"  loop="8" time="4" >
-			<pic name="1" link="img/162-1.jpg" />
-			<pic name="2" link="img/162-2.jpg" />
-			<pic name="3" link="img/162-3.jpg" />
-			<pic name="4" link="img/162-4.jpg" />
-			<pic name="5" link="img/162-5.jpg" />
-			<pic name="6" link="img/162-6.jpg" />
-			<pic name="7" link="img/162-7.jpg" />
-			<pic name="8" link="img/162-8.jpg" />
-		</pic>	
-		<pic name="163" link="img/163-animales.swf"/>																	
-		<pic name="163" link="img/164-gracias.swf"/>
+		<pic name="161" link="img/161.jpg"/>
+		<pic name="162" link="img/162.jpg"/>																	
+		<pic name="163" link="img/163 logo vecol.jpg"/>
+		<pic name="164" link="img/164-texto.swf"/>	
+		<pic name="165" link="img/165.jpg"/>
+		<pic name="166" link="img/166.jpg"/>
+		<pic name="167" link="img/167.jpg"/>
+		<pic name="168" link="img/168.jpg"/>
+		<pic name="169" link="img/169.jpg"/>
+		<pic name="170" link="img/170.jpg"/>
+		<pic name="171" link="img/171.jpg"/>
+		<pic name="172" link="img/172.jpg"/>
+		<pic name="173" link="img/173.jpg"/>
+		<pic name="174" link="img/174.jpg"/>
+		<pic name="175" link="img/175.jpg"/>
+		<pic name="176" link="img/176.jpg"/>
+		<pic name="177" link="img/177.jpg"/>
+		<pic name="178" link="img/178-texto.swf"/>
+		<pic name="179" link="img/179.jpg"/>
+		<pic name="180" link="img/180.jpg"/>
+		<pic name="181" link="img/181.jpg"/>
+		<pic name="182" link="img/182.jpg"/>
+		<pic name="183" link="img/183.jpg"/>
+		<pic name="184" link="img/184.jpg"/>
+		<pic name="185" link="img/185.jpg"/>
+		<pic name="186" link="img/186 logo vecol.jpg"/>	
 	</pics> 
 	<colors>
 		<color value="0x666666" />
