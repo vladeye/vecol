@@ -187,7 +187,7 @@
 		<pic name="132" link="img/132.jpg"/>
 		<pic name="133" link="img/133.jpg"/>
 		<pic name="134" link="img/134.jpeg"/>
-		<pic name="135" link="img/135.jpg"/>
+		<pic name="135" link="img/135-texto.swf"/>
 		<pic name="136" link="img/136.jpg"/>
 		<pic name="137" link="img/137.jpg"/>
 		<pic name="138" link="img/138.jpg"/>
@@ -237,7 +237,7 @@
 		<pic name="182" link="img/182.jpg"/>
 		<pic name="183" link="img/183.jpg"/>
 		<pic name="184" link="img/184.jpg"/>
-		<pic name="185" link="img/185.jpg"/>
+		<pic name="185" link="img/185-texto.swf"/>
 		<pic name="186" link="img/logoVecol.swf"/>	
 		<pic name="187" loop="13" time="4" >
 			<pic name="1" link="img/2.5AgenciaUN_0530_3_20.jpg" />
