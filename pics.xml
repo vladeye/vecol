@@ -1,20 +1,20 @@
 ﻿<root>
 	<pics frecuency="20000"> 
 		<pic name="0" link="img/inicio.swf" linea="" />
-		<pic name="0" link="img/intro.swf" linea="" />		
+		<pic name="1" link="img/intro.swf" linea="" />		
 		<!--Vacunas-->
 		<!--pic name="3" link="img/1-2-logo60.swf" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Ganadería" subTit="Vacunas"/-->		
 
-		<pic name="0" link="img/logoVecol.swf" moveon="s" slices="2"/>				
+		<pic name="1" link="img/logoVecol.swf"/>				
 		<pic name="1" link="img/1-texto.swf" />
 		<pic name="2"  loop="7" time="4" >
-			<pic name="1" link="img/2.1verano_venta_reses.jpg" />
-			<pic name="2" link="img/2.2_0720208ce9dd14102dbbf8729febb39c.jpg" />
-			<pic name="3" link="img/2.3AgenciaUN_0530_2_30.jpg" />
-			<pic name="4" link="img/2.4AgenciaUN_0530_1_38.jpg" />
-			<pic name="5" link="img/2.5AgenciaUN_0530_3_20.jpg" />
-			<pic name="6" link="img/2.6AgenciaUN_0530_4_13.jpg" />
-			<pic name="7" link="img/2-FENOMENO1.jpg" />
+			<pic name="1" link="img/2-FENOMENO1.jpg" />
+			<pic name="2" link="img/2.1verano_venta_reses.jpg" />
+			<pic name="3" link="img/2.2_0720208ce9dd14102dbbf8729febb39c.jpg" />
+			<pic name="4" link="img/2.3AgenciaUN_0530_2_30.jpg" />
+			<pic name="5" link="img/2.4AgenciaUN_0530_1_38.jpg" />
+			<pic name="6" link="img/2.5AgenciaUN_0530_3_20.jpg" />
+			<pic name="7" link="img/2.6AgenciaUN_0530_4_13.jpg" />
 		</pic>
 		<pic name="3" link="img/3.swf"/>
 		<pic name="4" link="img/4mapa agricola.jpg"/>
@@ -50,7 +50,7 @@
 		<pic name="13" link="img/17-18.swf" moveon="s" slices="2"/>
 		<pic name="19" link="img/19.jpg"/>
 		<pic name="20" link="img/20-texto.swf"/>
-		<pic name="21" link="img/21-22.swf" moveon="n" slices="3"/>
+		<pic name="21" link="img/21-22.swf" moveon="s" slices="3"/>
 		<pic name="23"  loop="4" time="4" >
 			<pic name="1" link="img/23 pension.jpg" />
 			<pic name="2" link="img/23-1.jpg" />
@@ -67,9 +67,9 @@
 		<pic name="32" link="img/32.jpg"/>
 		<pic name="33" link="img/33- productos.jpg"/>
 		<pic name="34" link="img/34.jpg"/>
-		<pic name="35" link="img/35-fertilizantes.swf"/>
+		<pic name="35" link="img/35-fertilizantes.jpg"/>
 		<pic name="36" link="img/36-texto.swf"/>
-		<pic name="37"  loop="4" time="4" >
+		<pic name="37"  loop="8" time="4" >
 			<pic name="1" link="img/37 mascotas.jpg" />
 			<pic name="2" link="img/37-1.jpg" />
 			<pic name="3" link="img/37-2.jpg" />
@@ -131,10 +131,10 @@
 		<pic name="68" link="img/68 logofedepalmac.jpg"/>																				
 		<pic name="69" link="img/69 -PROCANA.jpg"/>										
 		<pic name="70" link="img/70 SAC.jpg"/>										
-		<pic name="71" link="img/70 SAC.jpg"/>										
+		<pic name="71" link="img/71 AGROFUTURO.jpg"/>										
 		<pic name="72" link="img/72 ANALAC.jpg"/>										
 		<pic name="73" link="img/73 ASDEPASO.jpg"/>
-		<pic name="74" link="img/74 Logo-Asocebu-01"/>						
+		<pic name="74" link="img/74 Logo-Asocebu-01.jpg"/>						
 		<pic name="75" link="img/75 FEDEGAN.jpg"/>
 		<pic name="76"  loop="4" time="4" >
 			<pic name="1" link="img/76- 3 Arturo Dajud 2.jpg" />
@@ -184,7 +184,7 @@
 		<pic name="127" link="img/127.jpg"/>
 		<pic name="128" link="img/128.jpg"/>
 		<pic name="129" link="img/129-texto.swf"/>
-		<pic name="130" link="img/134-texto.swf"/>
+		<pic name="130" link="img/130.jpg"/>
 		<pic name="131" link="img/131.jpg"/>	
 		<pic name="132" link="img/132.jpg"/>
 		<pic name="133" link="img/133.jpg"/>
@@ -240,7 +240,7 @@
 		<pic name="183" link="img/183.jpg"/>
 		<pic name="184" link="img/184.jpg"/>
 		<pic name="185" link="img/185.jpg"/>
-		<pic name="186" link="img/186 logo vecol.jpg"/>	
+		<pic name="186" link="img/logoVecol.swf"/>	
 	</pics> 
 	<colors>
 		<color value="0x666666" />
