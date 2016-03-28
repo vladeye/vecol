@@ -50,7 +50,7 @@
 		<pic name="13" link="img/17-18.swf" moveon="s" slices="2"/>
 		<pic name="19" link="img/19.jpg"/>
 		<pic name="20" link="img/20-texto.swf"/>
-		<pic name="21" link="img/21-22.swf" moveon="s" slices="3"/>
+		<pic name="21" link="img/21-22.swf" moveon="s" slices="2"/>
 		<pic name="23"  loop="4" time="4" >
 			<pic name="1" link="img/23 pension.jpg" />
 			<pic name="2" link="img/23-1.jpg" />
@@ -80,8 +80,6 @@
 			<pic name="8" link="img/37-7.jpg" />
 		</pic>
 		<pic name="38" link="img/38.jpg"/>
-		<pic name="39" link="img/35.jpg"/>
-		<pic name="36" link="img/36-37-38.swf" moveon="s" slices="3"/>
 		<pic name="39" link="img/39 logo planes piloto.jpg"/>
 		<pic name="40" link="img/40-texto.swf"/>
 		<pic name="41"  loop="5" time="4" >
@@ -189,7 +187,7 @@
 		<pic name="132" link="img/132.jpg"/>
 		<pic name="133" link="img/133.jpg"/>
 		<pic name="134" link="img/134.jpeg"/>
-		<pic name="135" link="img/135.jpg"/>
+		<pic name="135" link="img/135-texto.swf"/>
 		<pic name="136" link="img/136.jpg"/>
 		<pic name="137" link="img/137.jpg"/>
 		<pic name="138" link="img/138.jpg"/>
@@ -239,8 +237,23 @@
 		<pic name="182" link="img/182.jpg"/>
 		<pic name="183" link="img/183.jpg"/>
 		<pic name="184" link="img/184.jpg"/>
-		<pic name="185" link="img/185.jpg"/>
+		<pic name="185" link="img/185-texto.swf"/>
 		<pic name="186" link="img/logoVecol.swf"/>	
+		<pic name="187" loop="13" time="4" >
+			<pic name="1" link="img/2.5AgenciaUN_0530_3_20.jpg" />
+			<pic name="2" link="img/5.jpg" />
+			<pic name="3" link="img/61-3.jpg" />
+			<pic name="4" link="img/7-1Ganaderia 1.jpg" />
+			<pic name="5" link="img/41.jpg" />
+			<pic name="6" link="img/7-1Ganaderia 1.jpg" />
+			<pic name="7" link="img/37-4.jpg" />
+			<pic name="8" link="img/61-4 silueta salchicha y gato.jpg" />
+			<pic name="9" link="img/93.jpg" />
+			<pic name="10" link="img/76-2.JPG" />
+			<pic name="11" link="img/114.JPG" />
+			<pic name="12" link="img/176.jpg" />
+			<pic name="13" link="img/154.jpg" />
+		</pic>
 	</pics> 
 	<colors>
 		<color value="0x666666" />
