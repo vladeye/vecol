@@ -45,7 +45,7 @@
 		<pic name="10" link="img/10.swf"/>
 		<pic name="11" link="img/11-texto.swf"/>
 		<pic name="12" link="img/12.jpg"/>
-		<pic name="13" link="img/13-14-15.swf" moveon="s" slices="3"/>
+		<pic name="13" link="img/13-14-15.swf" moveon="s" slices="5"/>
 		<pic name="16" link="img/16.swf"/>
 		<pic name="13" link="img/17-18.swf" moveon="s" slices="2"/>
 		<pic name="19" link="img/19.jpg"/>
@@ -54,7 +54,7 @@
 		<pic name="23"  loop="4" time="4" >
 			<pic name="1" link="img/23 pension.jpg" />
 			<pic name="2" link="img/23-1.jpg" />
-			<pic name="3" link="img/23-2 sequia guajira.jpg" />
+			<pic name="3" link="img/23-2.jpg" />
 			<pic name="4" link="img/23-4.jpg" />
 		</pic>
 		<pic name="24" link="img/24.jpg"/>
@@ -96,7 +96,11 @@
 		<pic name="48" link="img/48-logos.jpg"/>
 		<pic name="49" link="img/49-texto.swf"/>	
 		<pic name="50" link="img/50.jpg"/>	
-		<pic name="51" link="img/51-52.swf" moveon="s" slices="2"/>
+		<pic name="51" link="img/51.swf" />
+		<pic name="51a" link="img/51a leche-1.jpg" />
+		<pic name="51b" link="img/51b carne.jpg" />
+		<pic name="51c" link="img/51c doble proposito-3.jpg" />
+		<pic name="52" link="img/52.jpg" />
 		<pic name="53" link="img/53-texto.swf"/>
 		<pic name="54"  loop="7" time="4" >
 			<pic name="1" link="img/54 Buque.jpg" />
@@ -134,11 +138,12 @@
 		<pic name="73" link="img/73 ASDEPASO.jpg"/>
 		<pic name="74" link="img/74 Logo-Asocebu-01.jpg"/>						
 		<pic name="75" link="img/75 FEDEGAN.jpg"/>
-		<pic name="76"  loop="4" time="4" >
+		<pic name="76"  loop="5" time="4" >
 			<pic name="1" link="img/76- 3 Arturo Dajud 2.jpg" />
 			<pic name="2" link="img/76 vecol_en_feri a.jpg" />
 			<pic name="3" link="img/76-1.jpg" />
 			<pic name="4" link="img/76-2.jpg" />
+			<pic name="5" link="img/76-3.JPG" />
 		</pic>
 		<pic name="77" link="img/77.jpg"/>
 		<pic name="78" link="img/78-79-80-81.swf" moveon="s" slices="4"/>
@@ -162,7 +167,7 @@
 		<pic name="105" link="img/105 Planta Formulación.jpg"/>
 		<pic name="106" link="img/106 Foto Pasillo.jpg"/>
 		<pic name="107" link="img/107-texto.swf"/>	
-		<pic name="108" link="img/108 recertificacion.jpg"/>
+		<pic name="108" link="img/108-texto.swf"/>
 		<pic name="109" link="img/109 REMPLAZO bioseguridad.jpg"/>
 		<pic name="110" link="img/110.jpg"/>
 		<pic name="111" link="img/111.jpg"/>
@@ -238,22 +243,7 @@
 		<pic name="183" link="img/183.jpg"/>
 		<pic name="184" link="img/184.jpg"/>
 		<pic name="185" link="img/185-texto.swf"/>
-		<pic name="186" link="img/logoVecol.swf"/>	
-		<pic name="187" loop="13" time="4" >
-			<pic name="1" link="img/2.5AgenciaUN_0530_3_20.jpg" />
-			<pic name="2" link="img/5.jpg" />
-			<pic name="3" link="img/61-3.jpg" />
-			<pic name="4" link="img/7-1Ganaderia 1.jpg" />
-			<pic name="5" link="img/41.jpg" />
-			<pic name="6" link="img/7-1Ganaderia 1.jpg" />
-			<pic name="7" link="img/37-4.jpg" />
-			<pic name="8" link="img/61-4 silueta salchicha y gato.jpg" />
-			<pic name="9" link="img/93.jpg" />
-			<pic name="10" link="img/76-2.JPG" />
-			<pic name="11" link="img/114.JPG" />
-			<pic name="12" link="img/176.jpg" />
-			<pic name="13" link="img/154.jpg" />
-		</pic>
+		<pic name="186" link="img/logoVecol - gracias.swf"/>	
 	</pics> 
 	<colors>
 		<color value="0x666666" />
