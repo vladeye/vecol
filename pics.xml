@@ -1,7 +1,7 @@
 ﻿<root>
 	<pics frecuency="20000"> 
 		<pic name="0" link="img/inicio.swf" linea="" />
-		<pic name="1" link="img/intro.swf" linea="" />		
+		<pic name="0" link="img/introFotosMasPortada.swf" linea="" />
 		<!--Vacunas-->
 		<!--pic name="3" link="img/1-2-logo60.swf" linea="" colorlin="0066ff" colorsec="0066ff" mainTit="Línea Ganadería" subTit="Vacunas"/-->		
 
