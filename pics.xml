@@ -116,13 +116,12 @@
 		<pic name="57" link="img/57 fertilizantes.swf"/>
 		<pic name="58" link="img/58-59.swf" moveon="s" slices="2"/>
 		<pic name="60" link="img/60 mercadeo.jpg"/>
-		<pic name="61"  loop="6" time="4" >
-			<pic name="1" link="img/61.jpg" />
-			<pic name="2" link="img/61-0.jpg" />
-			<pic name="3" link="img/61-1.jpg" />
-			<pic name="4" link="img/61-2.jpg" />
-			<pic name="5" link="img/61-3.jpg" />
-			<pic name="6" link="img/61-4 silueta salchicha y gato.jpg" />
+		<pic name="61"  loop="5" time="4" >
+			<pic name="1" link="img/61-0.jpg" />
+			<pic name="2" link="img/61-1.jpg" />
+			<pic name="3" link="img/61-2.jpg" />
+			<pic name="4" link="img/61-3.jpg" />
+			<pic name="5" link="img/61-4 silueta salchicha y gato.jpg" />
 		</pic>
 		<pic name="62" link="img/62.jpg"/>
 		<pic name="63" link="img/63-texto.swf"/>
