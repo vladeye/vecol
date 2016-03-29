@@ -1,4 +1,5 @@
-﻿<root>
+﻿<!--Last version-->
+<root>
 	<pics frecuency="20000"> 
 		<pic name="0" link="img/inicio.swf" linea="" />
 		<pic name="0" link="img/introFotosMasPortada.swf" linea="" />
